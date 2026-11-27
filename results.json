@@ -1,0 +1,22 @@
+{
+ "Logistic regression": {
+  "cv_mean": 0.9658,
+  "cv_std": 0.0104,
+  "test_acc": 0.9778
+ },
+ "k-NN (k=3)": {
+  "cv_mean": 0.9733,
+  "cv_std": 0.0043,
+  "test_acc": 0.9667
+ },
+ "SVM (RBF)": {
+  "cv_mean": 0.9792,
+  "cv_std": 0.0056,
+  "test_acc": 0.98
+ },
+ "Neural network (MLP 64-32)": {
+  "cv_mean": 0.974,
+  "cv_std": 0.0091,
+  "test_acc": 0.9667
+ }
+}
